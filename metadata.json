@@ -1,0 +1,6 @@
+{
+  "name": "EmpireOS",
+  "description": "The $100 Million Every Day Project: Global Wealth Encyclopedia, Billionaire Intelligence System, Business Empire Builder & Wealth Operating System for Aditya Mehra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
